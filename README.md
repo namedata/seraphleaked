@@ -9,4 +9,9 @@ This is the most up to date developer version from after the leak. Source is obf
 ## Usage
 Put it in the autoexec folder of your executor of choice.
 
-To configure it, open workspace and look for "SeraphDQ.lua" after executing the first time.
+To configure it, open workspace and look for "DQConfig.lua" after executing the first time.
+
+
+## Credits
+Mrobswag for the original script
+Cr_eeky & UnknownReality for adding Northern Lands to it
