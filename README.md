@@ -14,4 +14,5 @@ To configure it, open workspace and look for "DQConfig.lua" after executing the 
 
 ## Credits
 Mrobswag for the original script
+
 Cr_eeky & UnknownReality for adding Northern Lands to it
