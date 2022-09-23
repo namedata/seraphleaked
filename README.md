@@ -2,10 +2,7 @@
 
 This is a free and more updated version of Seraph, a ROBLOX Dungeon Quest script.
 
-The original was sold to a person known as SirFrenchie/SirDuck who after being exposed as be a pedophile, quit and sold it to someone else.
-
-https://www.youtube.com/watch?v=A22s3UyfYPs - Frenchie's expose video
-https://namedata.lol/sirduckarchive/ - Expose archive
+https://namedata.lol/sirduckarchive/ - Old owner expose archive
 
 This is the most up to date developer version from after the leak. Source is obfuscated to prevent more pastes of it being spread around for money.
 
@@ -21,3 +18,5 @@ Mrobswag for the original script
 Cr_eeky & UnknownReality for adding Northern Lands to it
 
 Introvert for making Spooderquest (discord.gg/dungeonquest)
+
+Buy spooderquest if you want a better script ngl
